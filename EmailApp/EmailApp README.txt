@@ -1,0 +1,1 @@
+A simple app that generates an e-mail address for employees of a company.
